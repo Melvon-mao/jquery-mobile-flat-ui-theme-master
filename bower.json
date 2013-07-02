@@ -1,0 +1,19 @@
+{
+  "author": "ququplay",
+  "name": "jqm-faltui",
+  "description": "jQuery Mobile Flat UI Theme",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ququplay/jquery-mobile-flat-ui-theme.git"
+  },
+  "ignore": [
+    "node_modules",
+    "src",
+    ".gitignore",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+  }
+}
